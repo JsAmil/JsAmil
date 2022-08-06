@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00bf&height=180&section=header&text=Juan da Silva Amil&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000bf&height=180&section=header&text=Juan Amil&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff00bf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Juan+da+Silva+Amil+Pereira;I+study+computer+science+at+Descomplica;I'm+19+years+old;Be+Welcome!+:%29)](https://git.tio/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000bf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Juan+da+Silva+Amil+Pereira;I+study+computer+science+at+Descomplica;I'm+19+years+old;Be+Welcome!+:%29)](https://git.tio/typing-svg)
 
 <div alig="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JsAmil&show_icons=true&count_private=true&hide_border=true&title_color=ffff00bf&icon_color=ffff00bf&text_color=c9d1d9&bg_color=0d1117" alt="Juan da Silva Amil github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsAmil&layout=compact&hide_border=true&title_color=ffff00&text_color=ffff00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JsAmil&show_icons=true&count_private=true&hide_border=true&title_color=ff0000bf&icon_color=ff0000bf&text_color=c9d1d9&bg_color=0d1117" alt="Juan da Silva Amil github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsAmil&layout=compact&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
  </div>
  
- ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JsAmil&bg_color=0d117&color=ffff00&line=ffff00&point=24292e&area=true&hide_border=true)
+ ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JsAmil&bg_color=0d117&color=ff0000&line=ff0000&point=c9d1d9&area=true&hide_border=true)
  
  <div align="center">
  <a href="https://www.instagram.com/js_amil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -36,4 +36,4 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00bf&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000bf&height=120&section=footer"/>
