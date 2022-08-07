@@ -37,3 +37,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000bf&height=120&section=footer"/>
+   
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
