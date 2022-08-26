@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000bf&height=180&section=header&text=Welcome  👋&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000bf&height=180&section=header&text=Welcome👋&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000bf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Juan+da+Silva+Amil;I+study+computer+science+at+Descomplica;I'm+19+years+old;Be+Welcome!+:%29)](https://git.tio/typing-svg)
 
