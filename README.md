@@ -11,7 +11,7 @@
  
  <div align="center">
  <a href="https://www.instagram.com/js_amil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230D1117?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/jsamil/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/jsamil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"</a>
  </div>
 <div align="center"> 
   <hr></hr>
