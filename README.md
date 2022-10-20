@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsAmil&layout=compact&hide_border=true&title_color=8b008b&text_color=c9d1d9&bg_color=0d1117" />
  </div>
  
- ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JsAmil&bg_color=0d117&color=8b008b&line=8b008b&point=ffffff&area=true&hide_border=true)
+
  
  <div align="center">
  <a href="https://www.instagram.com/js_amil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230D1117?style=for-the-badge&logo=instagram&logoColor=white"</a>
